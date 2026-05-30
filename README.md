@@ -11,6 +11,9 @@ This repository contains my LeetCode solutions in Java.
 - C++
 
 ## 📂 Folder Structure
+
+## 📘 Concepts
+- [Binary Search Tree](Concepts/BinarySearchTree.md)
 - Easy
 - Medium
 - Hard
