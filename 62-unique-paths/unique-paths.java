@@ -18,7 +18,7 @@ class Solution {
             return 1;
         }
 
-        if (i >= m || j >= n) {
+        if (i == m || j == n) {
             return 0;
         }
 
